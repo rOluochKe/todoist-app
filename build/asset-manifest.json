@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/todoist-app/static/css/main.ba8a0471.chunk.css",
+    "main.js": "/todoist-app/static/js/main.771cfe99.chunk.js",
+    "main.js.map": "/todoist-app/static/js/main.771cfe99.chunk.js.map",
+    "runtime-main.js": "/todoist-app/static/js/runtime-main.c82b55b9.js",
+    "runtime-main.js.map": "/todoist-app/static/js/runtime-main.c82b55b9.js.map",
+    "static/js/2.89da6355.chunk.js": "/todoist-app/static/js/2.89da6355.chunk.js",
+    "static/js/2.89da6355.chunk.js.map": "/todoist-app/static/js/2.89da6355.chunk.js.map",
+    "static/js/3.a6213ffb.chunk.js": "/todoist-app/static/js/3.a6213ffb.chunk.js",
+    "static/js/3.a6213ffb.chunk.js.map": "/todoist-app/static/js/3.a6213ffb.chunk.js.map",
+    "index.html": "/todoist-app/index.html",
+    "precache-manifest.aee53113174f84189e201a32bd17f601.js": "/todoist-app/precache-manifest.aee53113174f84189e201a32bd17f601.js",
+    "service-worker.js": "/todoist-app/service-worker.js",
+    "static/css/main.ba8a0471.chunk.css.map": "/todoist-app/static/css/main.ba8a0471.chunk.css.map",
+    "static/js/2.89da6355.chunk.js.LICENSE.txt": "/todoist-app/static/js/2.89da6355.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c82b55b9.js",
+    "static/js/2.89da6355.chunk.js",
+    "static/css/main.ba8a0471.chunk.css",
+    "static/js/main.771cfe99.chunk.js"
+  ]
+}
