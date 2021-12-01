@@ -9,3 +9,10 @@ Building a todoist clone
 - Firebase
 - SCSS
 - React Testing
+
+## Running the project
+
+- Clone
+- npm install
+- npm test
+- npm run
